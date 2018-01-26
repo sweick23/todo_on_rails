@@ -1,9 +1,9 @@
 
 default: &default
   adapter: postgresql
-  database: ddkeu32m7p1j5j
-  username: vcfxclzapdxjnz
-  password: weickum23
+  host: localhost
+  username: user
+  database: app-dev
   pool: 5
   timeout: 5000
 
